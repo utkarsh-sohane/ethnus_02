@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "afterDelay",
+    "git.ignoreLimitWarning": true,
+    "livePreview.defaultPreviewPath": "/bootstrap/task01.html"
+}
